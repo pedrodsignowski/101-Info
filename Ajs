@@ -1,0 +1,119 @@
+1) Considere a expressão lógica abaixo:
+P ^ Q v R
+
+Selecione a sentença que representa a expressão lógica acima:
+
+a) Estudo matemática e estudo física ou estudo química
+b) Estudo matemática ou estudo física e estudo química
+c) Não é verdade que estudo matemática ou que estudo física e que estudo química
+d) Estudo matemática ou estudo física ou estudo química
+e) Todas as alternativas acima estão corretas
+f) Nenhuma das alternativas está correta
+
+2) Considere a expressão lógica abaixo:
+P v Q ^ R
+
+Selecione a sentença que representa a expressão lógica acima:
+
+a) Estudo matemática ou estudo física e estudo química
+b) Estudo matemática e estudo física ou estudo química
+c) Não é verdade que estudo matemática ou estudo física e estudo química
+d) Estudo matemática ou estudo física ou estudo química
+e) Todas as alternativas estão corretas
+f) Nenhuma das alternativas está correta
+
+3) Considere a expressão lógica abaixo:
+~P ^ Q
+
+Selecione a sentença correta:
+
+a) Não estudo matemática e estudo física
+b) Estudo matemática e não estudo física
+c) Não estudo matemática ou estudo física
+d) Estudo matemática ou estudo física
+e) Todas estão corretas
+f) Nenhuma está correta
+
+4) Considere a expressão lógica abaixo:
+P ⊕ Q
+
+Selecione a sentença correta:
+
+a) Estudo matemática e estudo física
+b) Estudo matemática ou estudo física
+c) Estudo matemática ou estudo física, mas não ambos
+d) Não estudo matemática ou estudo física
+e) Todas estão corretas
+f) Nenhuma está correta
+
+5) Considere a expressão lógica abaixo:
+~(P v Q)
+
+Selecione a sentença correta:
+
+a) Não é verdade que estudo matemática ou estudo física
+b) Não estudo matemática e não estudo física
+c) Estudo matemática e estudo física
+d) Estudo matemática ou estudo física
+e) Todas estão corretas
+f) Nenhuma está correta
+
+6) Considere a expressão lógica abaixo:
+(P ^ Q) ⊕ R
+
+Selecione a sentença correta:
+
+a) Ou Estudo matemática e estudo física ou estudo química
+b) Estudo matemática e estudo física ou estudo química
+c) Estudo matemática ou estudo física ou estudo química
+d) Não estudo matemática e estudo física ou estudo química
+e) Todas estão corretas
+f) Nenhuma está correta
+
+7) Considere a expressão lógica abaixo:
+~P v (Q ^ R)
+
+Selecione a sentença correta:
+
+a) Estudo matemática ou estudo física e estudo química
+b) Não estudo matemática, ou estudo física e estudo química
+c) Não estudo matemática e estudo física ou estudo química
+d) Não estudo matemática ou estudo física ou estudo química
+e) Todas estão corretas
+f) Nenhuma está correta
+
+8) Considere a expressão lógica abaixo:
+(P v Q) ^ ~R
+
+Selecione a sentença correta:
+
+a) Estudo matemática ou estudo física ou não estudo química
+b) Não estudo matemática ou estudo física e estudo química
+c) Estudo matemática ou estudo física, e não estudo química
+d) Estudo matemática e estudo física e não estudo química
+e) Todas estão corretas
+f) Nenhuma está correta
+
+9) Considere a expressão lógica abaixo:
+P ⊕ (Q ^ R)
+
+Selecione a sentença correta:
+
+a) Estudo matemática ou estudo física ou estudo química
+b) Ou estudo matemática, ou estudo física e estudo química
+c) Não é verdade que estudo matemática, e que estudo física ou estudo química
+d) Não estudo matemática ou estudo física ou estudo química
+e) Todas estão corretas
+f) Nenhuma está correta
+
+10) Considere a expressão lógica abaixo:
+~(P ^ (Q v R))
+
+Selecione a sentença correta:
+
+a) Não estudo matemática e estudo física ou estudo química
+b) Não é verdade que estudo matemática, e que estudo física ou estudo química
+c) Estudo matemática e estudo física ou estudo química
+d) Não estudo matemática ou estudo física ou estudo química
+e) Todas estão corretas
+f) Nenhuma está correta
