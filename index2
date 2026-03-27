@@ -1,0 +1,46 @@
+<html>
+<head meta-charset='UTF-8'> <title> Tabela de planetas</title> </head>
+<body>
+<table border='1'>
+<thead>
+<tr>
+<th colspan ="7">Sistema Solar</th>
+</tr>
+<tr>
+<th colspan="2">TIPO</th>
+<th>NOME </th>
+<th> IMAGEM</th>
+<th>DIÂMETRO(km)</th>
+<th>DURAÇÃO DO DIA (HORAS)</th>
+<th>TEMPERATURA MÉDIA (°C)</th>
+</tr>
+</thead>
+<tbody>
+<tr>w
+<td rowspan="4" colspan="2"> Planetas terrestres</td>
+
+<th>Mercúrio</th>
+
+<th><img src="1.webp"></th>
+<th>4,879</th>
+
+<th>4222.6</th>
+
+<th>167</th>
+</tr>
+<tr>
+<th>Vênus</th>
+<th><img src="img/download.jpeg"></th>
+<th>12.104</th>
+<th>2802.0</th>
+<th>464</th>
+
+</tr>
+
+
+
+
+</table>
+</body>
+
+</html>
