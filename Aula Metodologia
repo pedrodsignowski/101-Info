@@ -1,40 +1,34 @@
-Nome: Pedro,Benjamin,Luca,Vitor,Diogo,Murilo e Nicholas
+Nome: Pedro,Benjamin,Luca,Vitor,Diogo,Murilo,Nicholas e Gabriel
 
 Inteligência Artifical na programação de jogos 
 
-“A Inteligência Artificial (IA) é uma ampla área de aplicações computacionais caracterizadas pelo uso de computações simbólicas em vez de numéricas. Computações simbólicas são aquelas nas quais símbolos, compostos de nomes em vez de números, são manipulados.” (Sebarta, 2018, p.6).
+ 1-“A Inteligência Artificial (IA) é uma ampla área de aplicações computacionais caracterizadas pelo uso de computações simbólicas em vez de numéricas. Computações simbólicas são aquelas nas quais símbolos, compostos de nomes em vez de números, são manipulados.” (Sebarta, 2018, p.6).
 
 SEBARTA, Robert W.Conceitos de linguagens de Programação – 11.ed. Bookman Editora,2018. S.L Disponível em:https://books.google.com.br/books?hl=pt-BR&lr=&id=J3RZDwAAQBAJ&oi=fnd&pg=PR1&dq=%22programa%C3%A7%C3%A3o%22&ots=IM3Db1cKaa&sig=akcbyPJ0ODGbLyFd02C5YqHI1yY&redir_esc=y#v=onepage&q&f=false. Acesso em: 31 de mar. 2026.
 
 ------------------------------------------------------------------------------------------------------------------------
 
 
-De acordo  com  Filho(2022, p.2) “o games F.P.S. (First Person Shooter) e nos T.P.S. (Thirst Person Shooter) a predominância do papel dos N.P.C.s (Non-Playable Character) que são os oponentes do jogador, com algum nível de IA, apresentando características reativas dinâmicas as quais se ajustam às habilidades do usuário dentro de limites pré-estabelecidos, por vezes configuráveis.”
+ 2-De acordo  com  Filho(2022, p.2) “o games F.P.S. (First Person Shooter) e nos T.P.S. (Thirst Person Shooter) a predominância do papel dos N.P.C.s (Non-Playable Character) que são os oponentes do jogador, com algum nível de IA, apresentando características reativas dinâmicas as quais se ajustam às habilidades do usuário dentro de limites pré-estabelecidos, por vezes configuráveis.”
 
-De acordo com Filho(2022,p.3) “As pesquisas em IA para criação de jogos vem usando Algoritmos Genéticos, como o pathfinding e seu A*, (MEDINA e MÜLLER, 2008). Muitas aplicações surgem na área de entretenimento com a IA, para os amantes dos jogos, com a IA promete fortes emoções.”
+3-De acordo com Filho(2022,p.3) “As pesquisas em IA para criação de jogos vem usando Algoritmos Genéticos, como o pathfinding e seu A*, (MEDINA e MÜLLER, 2008). Muitas aplicações surgem na área de entretenimento com a IA, para os amantes dos jogos, com a IA promete fortes emoções.”
 
-De acrodo com Ernane.INTELIGÊNCIA ARTIFICIAL APLICADA A
-JOGOS DIGITAIS.Editora Cientifica
+4-De acordo com ERNANE,Rosa Martins.Inteligência artificial aplicada a jogos digitais[S.l]:Editora Cientifica. Disponível em https://downloads.editoracientifica.com.br/articles/231215230.pdf. Acesso em 12/05/2026 “A inteligência artificial é um campo da ciência da computação que busca desenvolver sistemas capazes de simular o comportamento humano. No contexto dos jogos digitais, a inteligência artificial é utilizada para criar personagens não jogáveis (NPCs) com comportamentos realistas e desafiadores. Esses NPCs podem agir de forma autônoma, tomando decisões baseadas em suas características e no ambiente do jogo. ”
+
 
 GOBETE FILHO, Alexandre Roberto; LUCCA FILHO, João de. INTELIGÊNCIA ARTIFICIAL EM JOGOS DIGITAIS. Revista Interface Tecnológica, Taquaritinga, SP, v. 19, n. 2, p. 342–354, 2022. DOI: 10.31510/infa.v19i2.1546. Disponível em: https://revista.fatectq.edu.br/interfacetecnologica/article/view/1546. Acesso em: 7 abr. 2026 
 
 
-Parafrase--> Inteligência artificial, ou simplesmente IA é uma área de pesquisa sobre computadores que simulam o comportamento humano inteligente. Para a grande maioria da população em sua maioria, IA é o cérebro de máquinas poderosas, como as que aparecem em filmes de ficção científica, enquanto que para os acadêmicos, é uma fonte “infinita” de desafios e estudos sobre como recriar um ser inteligente através do uso de computadores (Kishimoto, 2004)
+5-Parafrase--> Inteligência artificial, ou simplesmente IA é uma área de pesquisa sobre computadores que simulam o comportamento humano inteligente. Para a grande maioria da população em sua maioria, IA é o cérebro de máquinas poderosas, como as que aparecem em filmes de ficção científica, enquanto que para os acadêmicos, é uma fonte “infinita” de desafios e estudos sobre como recriar um ser inteligente através do uso de computadores (Kishimoto, 2004)
 
-Parafrase--> A principal diferença entre a IA acadêmica e a IA para jogos está no objetivo que cada uma busca. A acadêmica tem o objetivo é buscar a solução para problemas extremamente difíceis, como imitar o reconhecimento que os humanos são capazes de realizar (reconhecimento facial e de imagens e objetos, por exemplo). Já na área dos jogos, ela entender e construir agentes inteligentes. o objetivo de usar inteligência artificial é a diversão. Tem foco no resultado (dados que o sistema gera) e não tanto no processo.  (Kishimoto, 2004)
+6-Parafrase--> A principal diferença entre a IA acadêmica e a IA para jogos está no objetivo que cada uma busca. A acadêmica tem o objetivo é buscar a solução para problemas extremamente difíceis, como imitar o reconhecimento que os humanos são capazes de realizar (reconhecimento facial e de imagens e objetos, por exemplo). Já na área dos jogos, ela entender e construir agentes inteligentes. o objetivo de usar inteligência artificial é a diversão. Tem foco no resultado (dados que o sistema gera) e não tanto no processo.  (Kishimoto, 2004)
 
-Um dos problemas encontrados sobre IA na indústria de jogos eletrônicos é a grande variedade de gênero dos jogos existentes e os comportamentos dos personagens, resultando numa interpretação ampla do que é considerada IA para jogos. Há desenvolvedores que consideram a interface do jogo
+7-“Um dos problemas encontrados sobre IA na indústria de jogos eletrônicos é a grande variedade de gênero dos jogos existentes e os comportamentos dos personagens, resultando numa interpretação ampla do que é considerada IA para jogos. Há desenvolvedores que consideram a interface do jogo”
 
-“No contexto dos jogos digitais, a inteligência artificial é utilizada para criar personagens
-não jogáveis (NPCs) com comportamentos realistas e desafiadores.
-com o usuário parte da área de IA, assim como outros consideram algoritmos de movimento e colisão também como IA” Martins, Rosa Ernane.INTELIGÊNCIA ARTIFICIAL APLICADA A
-JOGOS DIGITAIS In: Martins ros
+GOBETE FILHO, Alexandre Roberto; LUCCA FILHO, João de. INTELIGÊNCIA ARTIFICIAL EM JOGOS DIGITAIS. Revista Interface Tecnológica, Taquaritinga, SP, v. 19, n. 2, p. 342–354, 2022. DOI: 10.31510/infa.v19i2.1546. Disponível em: https://revista.fatectq.edu.br/interfacetecnologica/article/view/1546. Acesso em: 7 abr. 2026 
 
-
-(Kishimoto, 2004, p.2)
 
 Referencia--> KISHIMOTO, André. Inteligência Artificial em Jogos Eletrônicos. Disponível em: <https://d1wqtxts1xzle7.cloudfront.net/30284526/andre_kishimoto-libre.pdf?1390882941=&response-content-disposition=inline%3B+filename%3DInteligencia_Artificial_em_Jogos_Eletron.pdf&Expires=1777386595&Signature=HL5TchL9G~VLCxTjBgd~pHWQq5iQ7dppPzdBIH4L8-SMxMtsXmEWzyNAYIlIpuTybGF7Ps0NjUV8jqlbt9vJMU-oeeaEpfLA4X1NGlzwfxEgKEYCvXPURwtcvZc7gJIaSTnmcyztSqKTLeXLJUctlqMCPjw1-yGABIB9Q-LaSXjfvZtHKLBk-FxnIgYJmLb5hF76gnXmCe8YDEavo5bGq0HzykxeiF2uhQ5kuyOu14NnMGi7jLdOGDQk-M8~QrJ0QHAfHyeCXlV4xhBO33rek6v519-6-nrYMVjBpsd0cceDlbDD7qvoipCHEaLJ0Ev6DCv5j5jF2hokG-253HM~Ow__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA>. Acesso em: 28 abr. 2026.
 
 GOBETE FILHO, Alexandre Roberto; LUCCA FILHO, João de. INTELIGÊNCIA ARTIFICIAL EM JOGOS DIGITAIS. Revista Interface Tecnológica, Taquaritinga, SP, v. 19, n. 2, p. 342–354, 2022. DOI: 10.31510/infa.v19i2.1546. Disponível em: https://revista.fatectq.edu.br/interfacetecnologica/article/view/1546. Acesso em: 28 abr. 2026. 
 ‌
-https://downloads.editoracientifica.com.br/articles/231215230.pdf
