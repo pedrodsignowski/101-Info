@@ -77,8 +77,26 @@
 </tr>
  </tbody>
     
+</table>
 
-<table>
+<form action = "/submit-item methode:""POST">
+    <fieldset>
+        <legend>Dados do chamado técnico </legend>
+    <label for ="nome">ID do dispositivo : </label>
+    <input type="text" id="name" name="nome" required> <br>
+        <!--- name= variavel id= identificação-->
+    <label for = "título">Título do problema</label> 
+         <input type = "text" id="título" name="título" placeholder="Ex: Falha no login " required>
+         <br>
+
+    <label for ="categoria"> Categoria de TI <label>
+     <select  id="categoria" name="categoria">
+        <option value="Hardware"> Hardware </option>
+        <option value ="Software">Software </option>
+        <br>
+
+    label for ="impacto">Impacto no sistema </label>
+        <input type="radio">
 
 
 </body>
