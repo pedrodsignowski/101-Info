@@ -1,6 +1,8 @@
 Nome: Pedro,Benjamin,Luca,Vitor,Diogo,Murilo,Nicholas e Gabriel
 
-Inteligência Artifical na programação de jogos 
+Inteligência Artifical na programação de jogos
+
+colocar a, b e c ,   Jogabilidade e NPC’s
 
  1-“A Inteligência Artificial (IA) é uma ampla área de aplicações computacionais caracterizadas pelo uso de computações simbólicas em vez de numéricas. Computações simbólicas são aquelas nas quais símbolos, compostos de nomes em vez de números, são manipulados.” (Sebarta, 2018, p.6).
 
@@ -25,7 +27,40 @@ GOBETE FILHO, Alexandre Roberto; LUCCA FILHO, João de. INTELIGÊNCIA ARTIFICIAL
 
 7-“Um dos problemas encontrados sobre IA na indústria de jogos eletrônicos é a grande variedade de gênero dos jogos existentes e os comportamentos dos personagens, resultando numa interpretação ampla do que é considerada IA para jogos. Há desenvolvedores que consideram a interface do jogo”
 
-GOBETE FILHO, Alexandre Roberto; LUCCA FILHO, João de. INTELIGÊNCIA ARTIFICIAL EM JOGOS DIGITAIS. Revista Interface Tecnológica, Taquaritinga, SP, v. 19, n. 2, p. 342–354, 2022. DOI: 10.31510/infa.v19i2.1546. Disponível em: https://revista.fatectq.edu.br/interfacetecnologica/article/view/1546. Acesso em: 7 abr. 2026 
+GOBETE FILHO, Alexandre Roberto; LUCCA FILHO, João de. INTELIGÊNCIA ARTIFICIAL EM JOGOS DIGITAIS. Revista Interface Tecnológica, Taquaritinga, SP, v. 19, n. 2, p. 342–354, 2022. DOI: 10.31510/infa.v19i2.1546. Disponível em: https://revista.fatectq.edu.br/interfacetecnologica/article/view/1546. Acesso em: 7 abr. 2026
+
+8-ARANHA, Eduardo; ARAÚJO, Wendell; MADEIRA, Charles. IA Aplicada a Jogos Digitais: Oportunidades e Desafios no Campo da Educação. In: WORKSHOP DE DESAFIOS DA COMPUTAÇÃO APLICADA À EDUCAÇÃO (DESAFIE!), 7. , 2018, Natal. Anais [...]. Porto Alegre: Sociedade Brasileira de Computação, 2018 . p. 58-66. DOI: https://doi.org/10.5753/desafie.2018.3105.
+
+9-Segundo Aranha, Araújo e Madeira (2018, p.1) "A inteligência artificial (IA) vem avançando em passos largos com o objetivo de tornar
+as tarefas dos seres humanos mais produtivas e eficazes."
+
+10-IA juntamente com os jogos, vem apresentando um
+grande crescimento em todas as áreas, assim efetivamente aumentando consideravelmente sua
+importância na comunidade científica, na indústria e até mesmo para o consumidor final/usuário. No lado dos cientistas temos o interesse
+fundamental em IA pelos jogos que deriva do fato que eles se mostraram
+como um ótimo laboratório de experimentação para pôr em prática e avaliar as técnicas
+desenvolvidas nos estudos teóricos.(Aramha, Araújo e Madeira 2018)
+
+11- IA tem apresentado um crescimento, bem como, o avanço nos algoritmos, poder computacional e aumento de grandes conjuntos de dados, suas aplicações em diversas áreas, assim com sua evolução ao longo do tempo. Conceitos como algoritmos de processamento de linguagem natural e visão computacional aprendizado de máquina, são termos que são amplamente utilizados e estão profundamente interligados a IA. (Barbosa 2002)
+
+12-Machine learning ou aprendizado de máquina, é uma subdivisão da inteligência artificial (IA) que possui foco em modelos que permitem com que sistemas computacionais aprendam padrões a partir de dados e desenvolvimento de algoritmos. Sendo uma alternativa à serem programadas para realizar uma tarefa específica, assim fazendo-as máquinas aprendem com base em exemplos e experiências passadas. (Barbosa 2002)
+
+
+13-A sua utilização em jogos eletrônicos é uma área que vem apresentando constante evolução abrangendo uma ampla gama de aplicações com diferentes técnicas, utilizadas na otimização de recursos de hardware aumentando desempenho dos jogos, assim como na criação de personagens não jogáveis (NPCs) com comportamentos realistas e não monótomos. O entendimento desse conceitos é de grande importância para compreender o impacto da IA na indústria de jogos e como isso anda moldando a experiência do jogador. A IA não apenas aumenta as possibilidades de desafio e entretenimento, mas também pode ser aplicada de diferentes maneiras em diversas áreas além dos jogos eletrônicos. (Barbosa 2002)
+
+
+14-1 Aplicação em jogos de RPG: Utiliza a "árvore de comportamento"como um sistema conjunto. Quando a IA está principalmente empregada na parte da decisão, ela utiliza essa árvore para planejar qual será sua próxima jogada. Com isso o sistema permite a adaptação dinâmica a situações adversas.
+14.2. Aplicação em jogos de FPS: Utiliza uma abrangente simulação realista de movimentos e ações dos jogadores, com um banco de dados de regras e movimentos para “definir” as ações da IA.(Barbosa 2002)
+
+
+15“Árvores de decisão são modelos de tomada de decisão amplamente usados para resolver problemas de classificação e tomada de decisões. Elas são uma representação gráfica e hierárquica de um conjunto de decisões e suas possíveis consequências” (Barbosa 2002, p. 13)
+
+16-“A Geração Procedural de Conteúdo (GPC) é uma técnica que tem desempenhado um papel significativo na indústria de jogos, permitindo a criação dinâmica e automatizada de elementos do jogo, como níveis, mapas, missões e itens.” (Barbosa 2002, p. 16)
+
+
+
+BARBOSA, João Victor Dourado. IA em jogos: aplicações, métodos e como melhorar a experiência do jogador. Orientação de João Roberto Bertini Junior. Campinas, SP: [s.n.], 2024. 1 recurso on-line (32 p.), il., digital, arquivo PDF. Disponível em: https://hdl.handle.net/20.500.12733/17054. Acesso em: 26 maio. 2026.  
+
 
 
 Referencia--> KISHIMOTO, André. Inteligência Artificial em Jogos Eletrônicos. Disponível em: <https://d1wqtxts1xzle7.cloudfront.net/30284526/andre_kishimoto-libre.pdf?1390882941=&response-content-disposition=inline%3B+filename%3DInteligencia_Artificial_em_Jogos_Eletron.pdf&Expires=1777386595&Signature=HL5TchL9G~VLCxTjBgd~pHWQq5iQ7dppPzdBIH4L8-SMxMtsXmEWzyNAYIlIpuTybGF7Ps0NjUV8jqlbt9vJMU-oeeaEpfLA4X1NGlzwfxEgKEYCvXPURwtcvZc7gJIaSTnmcyztSqKTLeXLJUctlqMCPjw1-yGABIB9Q-LaSXjfvZtHKLBk-FxnIgYJmLb5hF76gnXmCe8YDEavo5bGq0HzykxeiF2uhQ5kuyOu14NnMGi7jLdOGDQk-M8~QrJ0QHAfHyeCXlV4xhBO33rek6v519-6-nrYMVjBpsd0cceDlbDD7qvoipCHEaLJ0Ev6DCv5j5jF2hokG-253HM~Ow__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA>. Acesso em: 28 abr. 2026.
