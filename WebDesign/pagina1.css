@@ -1,0 +1,17 @@
+.menu {
+     background-color: rgb(103, 103, 103);
+     display: flex;
+     list-style-type: none;    
+    padding: 15px ;          
+    margin: 0;
+    justify-content: center;
+}
+.menu a {
+    color:rgb(252, 252, 252);
+}
+.conteudo p {
+    color:rgb(182, 175, 175);
+    font-size: 30px;
+    background-color: rgb(226, 41, 186);
+    max-width: 200px;
+}
